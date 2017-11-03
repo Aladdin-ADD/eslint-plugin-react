@@ -1,4 +1,7 @@
 {
+    "extends": ["plugin:node/recommended", "plugin:eslint-plugin/recommended"],
+    "plugins": ["node", "eslint-plugin"],
+    "root": true,
     "env": {
        "es6": true,
        "node": true

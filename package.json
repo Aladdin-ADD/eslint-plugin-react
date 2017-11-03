@@ -24,6 +24,7 @@
   "homepage": "https://github.com/yannickcr/eslint-plugin-react",
   "bugs": "https://github.com/yannickcr/eslint-plugin-react/issues",
   "dependencies": {
+    "clean": "^4.0.2",
     "doctrine": "^2.0.0",
     "has": "^1.0.1",
     "jsx-ast-utils": "^2.0.0",
@@ -33,6 +34,8 @@
     "babel-eslint": "^7.2.3",
     "coveralls": "^2.13.1",
     "eslint": "^4.3.0",
+    "eslint-plugin-eslint-plugin": "^1.2.0",
+    "eslint-plugin-node": "^5.2.1",
     "istanbul": "0.4.5",
     "mocha": "^3.5.0"
   },
